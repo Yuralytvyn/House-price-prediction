@@ -1,0 +1,616 @@
+latitude,longitude,material_of_building,Type_of_furniture,square_meters,number_of_rooms,year_of_completion,floor,residential_complex,number_of_floors,type_of_building,smart_house,floor_heating,security,cost_in_dollars
+49.87505,23.92568,brick house,none,84,3.0,2020.0,5.0,ЖК Соняшник,1.0,apartment,No,No,No,66500.0
+49.87515,23.92578,monolithic frame,none,90,3.0,2020.0,1.0,ЖК Соняшник,1.0,apartment,No,No,No,70000.0
+49.87525,23.92588,brick house,none,43.64,1.0,2024.0,5.0,ЖК Соняшник,1.0,apartment,No,No,No,38000.0
+49.87505,23.92568,brick house,none,88,3.0,2021.0,7.0,ЖК Соняшник,1.0,apartment,No,No,No,61000.0
+49.87506,23.92568,monolithic frame,none,65,2.0,2019.0,6.0,ЖК Соняшник,1.0,apartment,No,No,No,52000.0
+49.87506,23.92568,monolithic frame,none,66,2.0,2019.0,7.0,ЖК Соняшник,1.0,apartment,No,No,No,52800.0
+49.87506,23.92568,monolithic frame,none,74,2.0,2019.0,8.0,ЖК Соняшник,1.0,apartment,No,No,No,58000.0
+49.87506,23.92568,monolithic frame,none,84.1,3.0,2019.0,5.0,ЖК Соняшник,1.0,apartment,No,No,No,66500.0
+49.87506,23.92568,monolithic frame,none,55,1.0,2019.0,8.0,ЖК Соняшник,1.0,apartment,No,No,No,45000.0
+49.87506,23.92568,monolithic frame,none,70,2.0,2019.0,9.0,ЖК Соняшник,1.0,apartment,No,No,No,68000.0
+49.87506,23.92568,monolithic frame,none,68,2.0,2019.0,9.0,ЖК Соняшник,1.0,apartment,No,No,No,57000.0
+49.87506,23.92568,monolithic frame,none,66,2.0,2019.0,6.0,ЖК Соняшник,1.0,apartment,No,No,No,52900.0
+49.87506,23.92568,monolithic frame,none,90,3.0,2019.0,1.0,ЖК Соняшник,1.0,apartment,No,No,No,75000.0
+49.87515,23.92578,monolithic frame,none,44,1.0,2019.0,3.0,ЖК Соняшник,1.0,apartment,No,No,No,36000.0
+49.87515,23.92578,monolithic frame,none,44,1.0,2019.0,5.0,ЖК Соняшник,1.0,apartment,No,No,No,39960.0
+49.87515,23.92578,monolithic frame,none,43,1.0,2019.0,2.0,ЖК Соняшник,1.0,apartment,No,No,No,35200.0
+49.87504,23.92571,brick house,none,84,3.0,2019.0,5.0,ЖК Соняшник,1.0,apartment,No,No,No,66500.0
+49.87505,23.92572,monolithic frame,none,90,3.0,2019.0,1.0,ЖК Соняшник,1.0,apartment,No,No,No,70000.0
+49.87505,23.92572,monolithic frame,none,65,2.0,2019.0,6.0,ЖК Соняшник,1.0,apartment,No,No,No,52000.0
+49.87505,23.92572,monolithic frame,none,66,2.0,2019.0,7.0,ЖК Соняшник,1.0,apartment,No,No,No,52800.0
+49.87505,23.92572,monolithic frame,none,74,2.0,2019.0,8.0,ЖК Соняшник,1.0,apartment,No,No,No,58000.0
+49.87525,23.92588,brick house,none,43.64,1.0,2024.0,5.0,ЖК Соняшник,1.0,apartment,No,No,No,38000.0
+49.87505,23.92572,monolithic frame,none,84.1,3.0,2019.0,5.0,ЖК Соняшник,1.0,apartment,No,No,No,66500.0
+49.87505,23.92572,monolithic frame,none,55,1.0,2019.0,8.0,ЖК Соняшник,1.0,apartment,No,No,No,45000.0
+49.87505,23.92572,monolithic frame,none,66,2.0,2019.0,6.0,ЖК Соняшник,1.0,apartment,No,No,No,52900.0
+49.87505,23.92572,monolithic frame,none,68,2.0,2019.0,9.0,ЖК Соняшник,1.0,apartment,No,No,No,57000.0
+49.87505,23.92572,monolithic frame,none,70,2.0,2019.0,9.0,ЖК Соняшник,1.0,apartment,No,No,No,68000.0
+49.87505,23.92572,monolithic frame,none,90,3.0,2019.0,1.0,ЖК Соняшник,1.0,apartment,No,No,No,75000.0
+49.87497,23.92568,brick house,none,88,3.0,2021.0,7.0,ЖК Соняшник,1.0,apartment,No,No,No,61000.0
+49.87505,23.92572,monolithic frame,none,44,1.0,2019.0,5.0,ЖК Соняшник,1.0,apartment,No,No,No,39960.0
+49.87497,23.92569,monolithic frame,none,43,1.0,2019.0,2.0,ЖК Соняшник,1.0,apartment,No,No,No,35200.0
+49.87497,23.92569,monolithic frame,none,44,1.0,2019.0,3.0,ЖК Соняшник,1.0,apartment,No,No,No,36000.0
+49.87706,23.93224,brick house,good,45,1.0,2018.0,5.0,ЖК Зелений Двір,1.0,apartment,No,No,No,47000.0
+49.87504,23.92571,brick house,none,88,3.0,2019.0,7.0,ЖК Соняшник,1.0,apartment,No,No,No,61000.0
+49.87542,23.93117,brick house,none,70,2.0,2019.0,5.0,ЖК Зелений Двір,1.0,apartment,No,No,No,42000.0
+49.87498,23.92569,brick house,none,48,1.0,2023.0,5.0,ЖК Соняшник,1.0,apartment,No,No,No,45500.0
+49.87542,23.93117,brick house,good,80,3.0,2019.0,9.0,ЖК Зелений Двір,2.0,apartment,No,No,No,81900.0
+49.87542,23.93117,brick house,none,70,2.0,2019.0,5.0,ЖК Зелений Двір,1.0,apartment,No,No,No,52000.0
+49.87542,23.93117,brick house,none,44,1.0,2019.0,2.0,ЖК Зелений Двір,1.0,apartment,No,No,No,32000.0
+49.87754,23.92989,brick house,good,48,1.0,2015.0,10.0,ЖК Західна вежа,1.0,apartment,No,No,No,38000.0
+49.87807,23.93349,brick house,perfect,68,3.0,2006.0,3.0,Карпатбуд,1.0,apartment,No,No,No,95000.0
+49.87739,23.93303,brick house,perfect,68,3.0,2006.0,4.0,none,1.0,apartment,No,No,No,95000.0
+49.87617,23.93105,insulated panel,good,68,3.0,1992.0,9.0,none,1.0,apartment,No,No,No,60000.0
+49.87583,23.93254,brick house,none,70,3.0,1990.0,1.0,none,1.0,apartment,No,No,No,53000.0
+49.87572,23.93345,insulated panel,good,54,2.0,1989.0,2.0,none,1.0,apartment,No,No,No,44900.0
+49.87575,23.93573,insulated panel,medium,52,2.0,1990.0,2.0,none,1.0,apartment,No,No,No,45000.0
+49.87555,23.9374,insulated panel,none,60.25,2.0,1990.0,5.0,Галжитлобуд,1.0,apartment,No,No,No,36390.0
+49.87555,23.9374,insulated panel,none,90.36,3.0,1990.0,8.0,Галжитлобуд,1.0,apartment,No,No,No,54575.0
+49.87555,23.9374,insulated panel,none,74,2.0,1990.0,8.0,Галжитлобуд,1.0,apartment,No,No,No,58000.0
+49.87555,23.9374,insulated panel,none,89.64,3.0,1990.0,9.0,Галжитлобуд,1.0,apartment,No,No,No,51900.0
+49.87555,23.9374,insulated panel,none,65.1,2.0,1990.0,6.0,Галжитлобуд,1.0,apartment,No,No,No,39800.0
+49.87555,23.9374,insulated panel,none,122,4.0,1990.0,10.0,Галжитлобуд,1.0,apartment,No,No,No,75000.0
+49.87538,23.93125,brick house,none,71.9,2.0,2017.0,6.0,ЖК Зелений Двір,1.0,apartment,No,No,No,50000.0
+49.87538,23.93125,brick house,none,130,3.0,2021.0,10.0,ЖК Зелений Двір,1.0,apartment,No,No,No,95000.0
+49.87538,23.93125,brick house,none,81,3.0,2017.0,3.0,ЖК Еко-Дім,1.0,apartment,No,No,No,65000.0
+49.87538,23.93125,brick house,none,48,1.0,2023.0,4.0,none,1.0,apartment,No,No,No,27840.0
+49.87538,23.93125,brick house,none,36.5,1.0,2023.0,3.0,none,1.0,apartment,No,No,No,20880.0
+49.87538,23.93125,brick house,good,70,2.0,2019.0,3.0,none,1.0,apartment,No,No,No,75000.0
+49.87538,23.93125,brick house,none,70,3.0,2020.0,1.0,none,1.0,apartment,No,No,No,55500.0
+49.87772,23.92814,monolithic frame,none,134,5.0,2019.0,9.0,ЖК Зелений Двір,1.0,apartment,No,No,No,87000.0
+49.87538,23.92814,brick house,none,68,2.0,2019.0,5.0,none,1.0,apartment,No,No,No,42000.0
+49.87538,23.92814,brick house,none,67,2.0,2019.0,10.0,none,1.0,apartment,No,No,No,48000.0
+49.87772,23.92814,monolithic frame,perfect,43.5,1.0,2015.0,10.0,none,1.0,apartment,No,No,No,64999.0
+49.87538,23.92814,brick house,none,60.25,2.0,2021.0,5.0,Галжитлобуд,1.0,apartment,No,No,No,36900.0
+49.87538,23.92814,brick house,none,68,2.0,2019.0,5.0,none,1.0,apartment,No,No,No,42000.0
+49.87538,23.92814,brick house,none,70,2.0,2019.0,7.0,none,1.0,apartment,No,No,No,75000.0
+49.87501,23.93226,monolithic frame,perfect,43,2.0,2017.0,7.0,ЖК Еко-Дім,1.0,apartment,No,No,No,68000.0
+49.87501,23.93226,monolithic frame,none,80.7,3.0,2017.0,3.0,ЖК Еко-Дім,1.0,apartment,No,No,No,65000.0
+49.87483,23.93333,monolithic frame,perfect,38,1.0,2014.0,6.0,AVALON,1.0,apartment,No,No,No,56000.0
+49.87483,23.93333,monolithic frame,perfect,43,1.0,2014.0,10.0,AVALON,1.0,apartment,No,No,No,65000.0
+49.87255,23.94238,brick house,none,70,2.0,2015.0,1.0,none,1.0,apartment,No,No,No,42000.0
+49.87255,23.94238,brick house,good,45,1.0,2015.0,10.0,none,1.0,apartment,No,No,No,42000.0
+49.87255,23.94238,brick house,none,58,2.0,2015.0,4.0,none,1.0,apartment,No,No,No,52000.0
+49.87255,23.94238,brick house,none,79.4,2.0,2015.0,2.0,none,1.0,apartment,No,No,No,69117.0
+49.87332,23.9508,brick house,none,49,1.0,2022.0,3.0,ЖК Інжир,1.0,apartment,No,No,No,46600.0
+49.87332,23.9508,brick house,none,64,2.0,2022.0,2.0,ЖК Інжир,1.0,apartment,No,No,No,57450.0
+49.87332,23.9508,brick house,none,67.49,3.0,2022.0,2.0,ЖК Інжир,1.0,apartment,No,No,No,60700.0
+49.87332,23.9508,brick house,none,62.48,1.0,2022.0,4.0,ЖК Інжир,1.0,apartment,No,No,No,65600.0
+49.87332,23.9508,brick house,none,70.37,2.0,2023.0,3.0,ЖК Інжир,1.0,apartment,No,No,No,63300.0
+49.87332,23.9508,brick house,none,61.35,2.0,2023.0,2.0,ЖК Інжир,1.0,apartment,No,No,No,55215.0
+49.87332,23.9508,brick house,none,53.84,1.0,2022.0,4.0,ЖК Інжир,1.0,apartment,No,No,No,53840.0
+49.87332,23.9508,brick house,none,72.65,3.0,2022.0,3.0,ЖК Інжир,1.0,apartment,No,No,No,65400.0
+49.87388,23.95885,brick house,good,185,6.0,2000.0,0.0,none,3.0,cottege,No,No,No,165000.0
+49.87165,23.95649,brick house,perfect,48,1.0,2021.0,4.0,none,1.0,apartment,No,No,No,63000.0
+49.87165,23.95649,brick house,none,101,3.0,2021.0,4.0,none,1.0,apartment,No,No,No,95000.0
+49.87165,23.95649,brick house,none,75,2.0,2021.0,4.0,none,1.0,apartment,No,No,No,82500.0
+49.87165,23.95649,brick house,none,100.8,3.0,2021.0,3.0,none,1.0,apartment,No,No,No,105840.0
+49.87165,23.95649,brick house,none,75.5,2.0,2021.0,3.0,none,1.0,apartment,No,No,No,79275.0
+49.86466,23.96002,brick house,medium,40,2.0,1985.0,7.0,none,1.0,apartment,No,No,No,30000.0
+49.86771,23.95232,monolithic frame,perfect,97.9,2.0,2017.0,8.0,Нова Оселя,1.0,apartment,No,No,No,130000.0
+49.85983,23.96862,brick house,none,53,1.0,2000.0,9.0,ЖК Галіція,1.0,apartment,No,No,No,36500.0
+49.85983,23.96862,brick house,none,39.41,1.0,2000.0,12.0,ЖК Галіція,1.0,apartment,No,No,No,25000.0
+49.85983,23.96862,brick house,none,78,2.0,2021.0,12.0,ЖК Галіція,1.0,apartment,No,No,No,46.842
+49.85983,23.96862,brick house,none,51,2.0,2000.0,10.0,ЖК Галіція,1.0,apartment,No,No,No,31500.0
+49.86619,23.95277,brick house,none,88,2.0,2021.0,9.0,none,1.0,apartment,No,No,No,68000.0
+49.85316,23.98989,brick house,perfect,180,6.0,2000.0,2.0,none,1.0,apartment,No,No,Yes,317000.0
+49.84909,24.00106,brick house,good,30,1.0,1917.0,1.0,none,1.0,apartment,No,No,No,30000.0
+49.84902,24.00289,brick house,none,44,2.0,1955.0,0.0,none,1.0,mansion,No,No,No,45000.0
+49.8502,24.00409,brick house,medium,76.1,3.0,1950.0,1.0,none,1.0,apartment,No,No,No,86000.0
+49.84867,24.00547,monolithic frame,low,104,3.0,2015.0,2.0,none,1.0,apartment,No,No,No,119000.0
+49.84867,24.00547,monolithic frame,low,105,3.0,2015.0,5.0,none,1.0,apartment,No,No,No,130750.0
+49.84867,24.00547,monolithic frame,low,105,3.0,2015.0,5.0,none,1.0,apartment,No,No,No,121000.0
+49.84894,24.00574,brick house,good,59,2.0,1986.0,1.0,none,1.0,apartment,No,No,No,63000.0
+49.84843,24.0054,brick house,perfect,70,3.0,1954.0,1.0,none,1.0,apartment,No,No,No,88000.0
+49.84808,24.00386,monolithic frame,perfect,171,6.0,2016.0,7.0,ЖК Аурум,1.0,apartment,Yes,Yes,Yes,370000.0
+49.84808,24.00386,monolithic frame,none,101,3.0,2016.0,9.0,ЖК Аурум,1.0,apartment,No,Yes,Yes,120000.0
+49.84808,24.00386,monolithic frame,none,43.89,1.0,2016.0,4.0,ЖК Аурум,1.0,apartment,No,Yes,Yes,39990.0
+49.84808,24.00386,monolithic frame,none,45,1.0,2016.0,2.0,ЖК Аурум,1.0,apartment,No,Yes,Yes,54000.0
+49.84808,24.00386,monolithic frame,perfect,170,4.0,2016.0,7.0,ЖК Аурум,1.0,apartment,No,Yes,Yes,320000.0
+49.81109,24.05336,brick house,none,39.34,1.0,2023.0,2.0,ЖК Аурум,1.0,apartment,No,No,Yes,39340.0
+49.84808,24.00386,monolithic frame,perfect,44,1.0,2016.0,5.0,ЖК Аурум,1.0,apartment,No,Yes,Yes,78000.0
+49.84808,24.00386,monolithic frame,none,61,2.0,2016.0,5.0,ЖК Аурум,1.0,apartment,No,No,Yes,73000.0
+49.84808,24.00386,monolithic frame,perfect,47,1.0,2016.0,5.0,ЖК Аурум,1.0,apartment,No,Yes,Yes,82000.0
+49.84808,24.00386,monolithic frame,perfect,40.2,1.0,2016.0,6.0,ЖК Аурум,1.0,apartment,No,Yes,Yes,100000.0
+49.84808,24.00386,monolithic frame,perfect,47,1.0,2016.0,4.0,ЖК Аурум,1.0,apartment,No,Yes,Yes,78000.0
+49.84714,24.00471,monolithic frame,perfect,65,2.0,2016.0,9.0,ЖК Шоколад,1.0,apartment,No,Yes,Yes,160000.0
+49.84714,24.00471,monolithic frame,perfect,46.1,1.0,2016.0,5.0,ЖК Шоколад,1.0,apartment,No,No,Yes,85000.0
+49.84733,24.00553,monolithic frame,perfect,65,2.0,2017.0,9.0,ЖК Шоколад,1.0,apartment,No,Yes,Yes,175000.0
+49.84604,24.00746,brick house,low-medium,35.8,1.0,1935.0,4.0,none,1.0,apartment,No,No,Yes,41000.0
+49.84587,24.00865,brick house,none,46,1.0,2020.0,2.0,Семицвіт,1.0,apartment,No,No,No,71300.0
+49.84384,24.01834,brick house,perfect,55.5,1.0,1917.0,1.0,none,1.0,apartment,No,No,No,75000.0
+49.84384,24.01834,brick house,perfect,157,4.0,1917.0,4.0,none,1.0,apartment,No,Yes,No,230000.0
+49.84384,24.01834,brick house,medium-good,23,1.0,1917.0,4.0,none,1.0,apartment,No,No,No,33900.0
+49.84384,24.01834,brick house,perfect,61,2.0,1917.0,3.0,none,1.0,apartment,No,No,No,150000.0
+49.84384,24.01834,brick house,medium-good,72,2.0,1917.0,4.0,none,1.0,apartment,No,No,No,70000.0
+49.84384,24.01834,brick house,perfect,95,3.0,1917.0,2.0,none,1.0,apartment,No,No,No,200000.0
+49.84396,24.01825,brick house,perfect,34,1.0,1917.0,1.0,none,1.0,apartment,No,No,No,55000.0
+49.84396,24.01825,brick house,good,125,4.0,1917.0,4.0,none,1.0,apartment,No,No,No,160000.0
+49.84396,24.01825,brick house,low,65,2.0,1917.0,1.0,none,1.0,apartment,No,No,No,75000.0
+49.84396,24.01825,brick house,medium-good,120,4.0,1917.0,3.0,none,2.0,apartment,No,No,No,153000.0
+49.84455,24.01851,brick house,good,101,3.0,1880.0,3.0,none,1.0,apartment,No,No,No,150000.0
+49.84451,24.01874,brick house,perfect,55.5,2.0,1891.0,1.0,none,1.0,apartment,No,No,No,75000.0
+49.84451,24.01874,brick house,good,101.8,3.0,1891.0,3.0,none,1.0,apartment,No,No,No,149900.0
+49.84476,24.01969,brick house,perfect,68,1.0,1912.0,1.0,none,1.0,apartment,No,No,No,75000.0
+49.84476,24.01969,brick house,medium-good,25,1.0,1912.0,1.0,none,1.0,apartment,No,No,No,42500.0
+49.84431,24.01983,brick house,perfect,34,1.0,1915.0,1.0,none,1.0,apartment,No,No,No,53000.0
+49.84422,24.02048,brick house,medium,28,1.0,1915.0,1.0,none,1.0,apartment,No,No,No,34900.0
+49.84422,24.02048,brick house,low-medium,32,1.0,1915.0,2.0,none,1.0,apartment,No,No,No,35000.0
+49.84418,24.0229,brick house,medium-good,90,3.0,1891.0,1.0,none,1.0,apartment,No,No,No,165000.0
+49.84417,24.02404,brick house,medium-good,70.6,2.0,1800.0,2.0,none,1.0,apartment,No,No,No,70000.0
+49.84518,24.02184,brick house,medium-good,28,2.0,1906.0,1.0,none,1.0,apartment,No,No,No,40000.0
+49.84508,24.02512,brick house,none,110,3.0,1958.0,3.0,none,1.0,apartment,No,No,No,89000.0
+49.84534,24.02383,brick house,perfect,58,2.0,1893.0,2.0,none,1.0,apartment,No,No,No,84500.0
+49.84494,24.02246,brick house,medium-good,58,2.0,1967.0,1.0,none,1.0,apartment,No,No,No,54000.0
+49.84579,24.02286,brick house,medium-good,46,2.0,1917.0,2.0,none,1.0,apartment,No,No,No,70000.0
+49.84579,24.02286,brick house,good,40,1.0,1917.0,2.0,none,1.0,apartment,No,No,No,59000.0
+49.84614,24.02399,brick house,medium-good,49,2.0,1917.0,2.0,none,1.0,apartment,No,No,No,75000.0
+49.84622,24.02212,brick house,perfect,146,2.0,2000.0,7.0,none,1.0,apartment,No,Yes,No,285000.0
+49.84728,24.02037,brick house,none,36,2.0,1900.0,3.0,none,1.0,apartment,No,Yes,No,43000.0
+49.84656,24.02537,brick house,medium,35,2.0,1950.0,2.0,none,1.0,apartment,No,Yes,No,38500.0
+49.84669,24.02263,monolithic frame,perfect,63.2,1.0,2017.0,6.0,ЖК Старе Місто,1.0,apartment,No,Yes,No,190000.0
+49.84666,24.02268,monolithic frame,perfect,146,2.0,2017.0,7.0,ЖК Старе Місто,1.0,apartment,No,Yes,No,290000.0
+49.84666,24.02268,monolithic frame,perfect,63.2,1.0,2017.0,6.0,ЖК Старе Місто,1.0,apartment,No,Yes,No,190000.0
+49.84725,24.02046,brick house,none,36,2.0,1900.0,3.0,none,1.0,apartment,No,No,No,43000.0
+49.84788,24.01891,brick house,medium,70,3.0,1960.0,3.0,none,1.0,apartment,No,No,No,79000.0
+49.84711,24.02446,brick house,perfect,102,4.0,1917.0,3.0,none,1.0,apartment,No,Yes,No,175000.0
+49.84729,24.02453,brick house,perfect,60,3.0,1917.0,3.0,none,1.0,apartment,No,Yes,No,125000.0
+49.84742,24.02453,brick house,perfect,60,3.0,1909.0,3.0,none,1.0,apartment,No,Yes,No,130000.0
+49.84807,24.02406,brick house,low-medium,22,1.0,1895.0,1.0,none,1.0,apartment,No,No,No,27000.0
+49.8483,24.02367,brick house,perfect,118,4.0,2019.0,6.0,none,1.0,apartment,No,No,No,270000.0
+49.84768,24.0243,brick house,low-medium,44,2.0,1950.0,2.0,none,1.0,apartment,No,No,No,37000.0
+49.84768,24.0243,brick house,medium,57,1.0,1950.0,4.0,none,1.0,apartment,No,No,No,84500.0
+49.8495,24.0235,brick house,perfect,193,3.0,1980.0,7.0,none,2.0,apartment,Yes,Yes,No,550000.0
+49.84768,24.0243,brick house,perfect,80,3.0,1917.0,3.0,West Home,1.0,apartment,No,No,No,140000.0
+49.84768,24.0243,brick house,perfect,102,4.0,1917.0,3.0,none,1.0,apartment,No,No,No,170000.0
+49.84768,24.0243,brick house,perfect,43.2,2.0,1917.0,3.0,none,1.0,apartment,No,No,No,75000.0
+49.84768,24.0243,brick house,low-medium,33,2.0,1917.0,2.0,none,1.0,apartment,No,No,No,37000.0
+49.84768,24.0243,brick house,perfect,101.6,4.0,1917.0,2.0,none,1.0,apartment,No,No,No,165000.0
+49.84768,24.0243,brick house,perfect,71,3.0,1917.0,2.0,none,1.0,apartment,No,No,No,130000.0
+49.84768,24.0243,brick house,perfect,62,3.0,1917.0,3.0,none,1.0,apartment,No,No,No,125000.0
+49.84768,24.0243,brick house,good,12,1.0,1917.0,1.0,none,1.0,apartment,No,No,No,22000.0
+49.84768,24.0243,brick house,low-medium,63,2.0,1917.0,3.0,none,1.0,apartment,No,No,No,63000.0
+49.84768,24.0243,brick house,medium,63,3.0,1917.0,1.0,none,1.0,apartment,No,No,No,105000.0
+49.84768,24.0243,brick house,medium,49,2.0,1917.0,1.0,none,1.0,apartment,No,No,No,75000.0
+49.84768,24.0243,brick house,none,33.4,2.0,1917.0,1.0,none,1.0,apartment,No,No,No,37000.0
+49.84768,24.0243,brick house,perfect,35.8,1.0,1917.0,1.0,none,1.0,apartment,No,No,No,62000.0
+49.84612,24.02187,brick house,perfect,45,2.0,1917.0,2.0,none,1.0,apartment,No,No,No,90000.0
+49.84475,24.01975,brick house,perfect,25,1.0,1912.0,2.0,none,1.0,apartment,No,No,No,42500.0
+49.84624,24.0261,brick house,medium-good,161.8,5.0,1918.0,2.0,none,2.0,apartment,No,No,No,210000.0
+49.84622,24.02767,brick house,good,68,2.0,1981.0,4.0,none,1.0,apartment,No,Yes,No,95000.0
+49.84908,24.02767,brick house,perfect,86.5,2.0,1917.0,13.0,none,1.0,apartment,No,Yes,No,160000.0
+49.84931,24.02809,brick house,none,137,5.0,1890.0,5.0,none,1.0,apartment,No,No,No,147000.0
+49.84999,24.02722,brick house,perfect,28,1.0,1917.0,3.0,none,1.0,apartment,No,No,No,56000.0
+49.85018,24.02716,brick house,perfect,28,1.0,1917.0,1.0,none,1.0,apartment,No,Yes,No,56000.0
+49.85059,24.02701,brick house,perfect,69,2.0,1917.0,2.0,none,1.0,apartment,No,Yes,No,175000.0
+49.85063,24.02722,brick house,medium-good,29,1.0,1915.0,1.0,none,1.0,apartment,No,No,No,36500.0
+49.84803,24.02978,brick house,perfect,39.7,2.0,2019.0,2.0,АН Атланта,1.0,apartment,No,No,No,67000.0
+49.84741,24.02919,brick house,perfect,30,1.0,2019.0,1.0,АН Атланта,1.0,apartment,No,Yes,No,63000.0
+49.84704,24.02988,brick house,perfect,40,2.0,1840.0,2.0,none,1.0,apartment,No,No,No,67000.0
+49.84891,24.02373,brick house,none,79.55,2.0,2019.0,5.0,ЖК Perfect Loft,1.0,apartment,No,No,No,214650.0
+49.84891,24.02373,brick house,none,77.5,2.0,2019.0,5.0,ЖК Perfect Loft,1.0,apartment,No,No,No,209000.0
+49.84891,24.02373,brick house,none,86,2.0,2019.0,6.0,ЖК Perfect Loft,1.0,apartment,No,No,No,232200.0
+49.84902,24.02256,brick house,perfect,122.1,4.0,2019.0,5.0,АН Атланта,2.0,apartment,No,Yes,No,250000.0
+49.83985,24.00715,brick house,none,105,3.0,2024.0,8.0,ЖК Praud Select,1.0,apartment,No,No,No,221000.0
+49.83985,24.00715,brick house,none,52.48,1.0,2024.0,2.0,ЖК Praud Select,1.0,apartment,No,No,No,87852.0
+49.84906,24.02314,brick house,none,59.2,1.0,2017.0,3.0,ЖК Perfect Loft,1.0,apartment,No,No,No,49320.0
+49.84906,24.02314,brick house,none,46.97,1.0,2017.0,6.0,ЖК Perfect Loft,1.0,apartment,No,No,No,39180.0
+49.84897,24.01951,brick house,none,106,4.0,1990.0,1.0,none,2.0,apartment,No,No,No,147000.0
+49.85118,24.01896,brick house,none,50.2,2.0,1930.0,4.0,none,1.0,apartment,No,Yes,No,115000.0
+49.85136,24.01942,brick house,medium-good,63,2.0,1930.0,4.0,none,1.0,apartment,No,No,No,79000.0
+49.85108,24.02784,brick house,good,26,1.0,1885.0,1.0,none,1.0,apartment,No,Yes,No,35500.0
+49.8516,24.01742,brick house,good,39,2.0,1915.0,3.0,none,1.0,apartment,No,Yes,No,57000.0
+49.85177,24.02629,brick house,perfect,17,1.0,2018.0,1.0,ЖК З_40,1.0,apartment,No,Yes,No,34000.0
+49.85177,24.02629,brick house,none,49.89,1.0,2018.0,7.0,ЖК З_40,1.0,apartment,No,No,No,107200.0
+49.85177,24.02629,brick house,none,50.21,1.0,2023.0,7.0,ЖК З_40,1.0,apartment,No,No,No,82850.0
+49.85177,24.02629,brick house,none,72.98,3.0,2023.0,7.0,ЖК З_40,1.0,apartment,No,No,No,153200.0
+49.85177,24.02629,brick house,none,74.97,3.0,2023.0,7.0,ЖК З_40,1.0,apartment,No,No,No,157400.0
+49.85177,24.02629,brick house,none,69.83,2.0,2023.0,5.0,ЖК З_40,1.0,apartment,No,No,No,132700.0
+49.85177,24.02629,brick house,none,49.89,1.0,2023.0,7.0,ЖК З_40,1.0,apartment,No,No,No,107200.0
+49.85177,24.02629,brick house,none,49.27,1.0,2023.0,7.0,ЖК З_40,1.0,apartment,No,No,No,105900.0
+49.85177,24.02629,brick house,none,77,3.0,2023.0,5.0,ЖК З_40,1.0,apartment,No,No,No,146718.0
+49.85177,24.02629,brick house,none,70,2.0,2023.0,6.0,ЖК З_40,1.0,apartment,No,No,No,139600.0
+49.85177,24.02629,brick house,none,77,3.0,2023.0,7.0,ЖК З_40,1.0,apartment,No,No,No,157500.0
+49.85177,24.02629,brick house,none,77.22,3.0,2023.0,6.0,ЖК З_40,1.0,apartment,No,No,No,154400.0
+49.85177,24.02629,brick house,none,72.89,1.0,2023.0,4.0,ЖК З_40,1.0,apartment,No,No,No,131200.0
+49.85177,24.02629,brick house,none,50,1.0,2023.0,7.0,ЖК З_40,1.0,apartment,No,No,No,107264.0
+49.85177,24.02629,brick house,none,77.20,3.0,2023.0,5.0,ЖК З_40,1.0,apartment,No,No,No,146700.0
+49.85268,24.02578,brick house,none,27.63,1.0,2023.0,8.0,АН Атланта,1.0,apartment,No,No,No,42000.0
+49.85224,24.02697,brick house,perfect,100,2.0,1827.0,2.0,none,1.0,apartment,No,Yes,No,200000.0
+49.85208,24.03558,brick house,medium-good,58.3,2.0,1833.0,2.0,none,1.0,apartment,No,No,No,69000.0
+49.85415,24.04268,brick house,good,63.2,2.0,1872.0,3.0,none,1.0,apartment,No,No,No,79000.0
+49.85311,24.03602,brick house,none,147,4.0,2021.0,6.0,ЖК Львівський дворик,1.0,apartment,No,No,Yes,147000.0
+49.85311,24.03602,brick house,none,136,4.0,2021.0,6.0,ЖК Львівський дворик,1.0,apartment,No,No,Yes,147000.0
+49.85311,24.03602,brick house,none,88,2.0,2020.0,6.0,ЖК Львівський дворик,1.0,apartment,No,No,Yes,88000.0
+49.85276,24.0372,brick house,perfect,37,1.0,1880.0,3.0,none,1.0,apartment,No,No,No,64000.0
+49.8531,24.0371,brick house,medium-good,30,1.0,1880.0,3.0,none,1.0,apartment,No,No,No,55000.0
+49.8543,24.04423,brick house,none,47.3,1.0,2019.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,60000.0
+49.8543,24.04423,brick house,none,43.18,1.0,2019.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,54000.0
+49.85562,24.04307,brick house,perfect,27,1.0,1917.0,2.0,none,1.0,apartment,No,No,No,49000.0
+49.85572,24.04317,brick house,none,85.6,1.0,2015.0,6.0,АН Атланта,1.0,apartment,No,No,No,89880.0
+49.85572,24.04217,monolithic frame,none,57.2,1.0,2024.0,4.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,80600.0
+49.85572,24.04218,monolithic frame,none,39,1.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,41000.0
+49.85572,24.04219,monolithic frame,none,35,1.0,2024.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,47080.0
+49.85572,24.0422,monolithic frame,none,70.7,2.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,58000.0
+49.85572,24.04221,monolithic frame,none,43,1.0,2024.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,50000.0
+49.85572,24.04222,monolithic frame,none,36,1.0,2024.0,3.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,50000.0
+49.85572,24.04223,monolithic frame,none,76.35,3.0,2024.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,80000.0
+49.85572,24.04224,monolithic frame,none,36,1.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,44499.0
+49.85572,24.04225,monolithic frame,none,75,2.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,83970.0
+49.85572,24.04226,monolithic frame,none,72,2.0,2024.0,4.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,60000.0
+49.85572,24.04227,monolithic frame,none,47.3,1.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,60390.0
+49.85572,24.04228,monolithic frame,none,57.69,1.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,83177.0
+49.85572,24.04229,monolithic frame,none,70.95,1.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,98.507
+49.85572,24.0423,monolithic frame,none,72,2.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,83000.0
+49.85573,24.04231,monolithic frame,none,67,2.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,69999.0
+49.85574,24.04232,monolithic frame,none,76.27,2.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,105893.0
+49.85575,24.04233,monolithic frame,none,67.8,1.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,97754.0
+49.85576,24.04234,monolithic frame,none,62.76,1.0,2024.0,4.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,93839.0
+49.85577,24.04235,monolithic frame,none,58,2.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,72000.0
+49.85578,24.04236,monolithic frame,none,71.49,2.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,100784.0
+49.85579,24.04237,monolithic frame,none,36,1.0,2024.0,3.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,50000.0
+49.8558,24.04238,brick house,none,87.5,3.0,2024.0,7.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,87500.0
+49.85581,24.04239,brick house,none,86,2.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,67000.0
+49.85582,24.0424,brick house,none,65,1.0,2024.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,68000.0
+49.85583,24.04241,monolithic frame,none,71.5,2.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,94360.0
+49.85584,24.04242,monolithic frame,none,116,3.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,Yes,No,149000.0
+49.85585,24.04243,brick house,none,85,2.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,65900.0
+49.85586,24.04244,monolithic frame,none,30.95,1.0,2024.0,9.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,42990.0
+49.85587,24.04245,monolithic frame,none,42,1.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,52260.0
+49.85588,24.04246,brick house,none,68,2.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,68999.0
+49.85589,24.04247,monolithic frame,none,50.07,1.0,2024.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,50000.0
+49.8559,24.04248,monolithic frame,none,78,2.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,99970.0
+49.85591,24.04249,brick house,none,65,2.0,2024.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,65000.0
+49.85592,24.0425,monolithic frame,none,72,2.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,62900.0
+49.85593,24.04251,monolithic frame,none,43.3,1.0,2024.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,60600.0
+49.85594,24.04252,brick house,none,48.2,1.0,2024.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,55000.0
+49.85595,24.04253,monolithic frame,none,43.11,1.0,2024.0,7.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,44000.0
+49.85596,24.04254,monolithic frame,none,76.35,2.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,80000.0
+49.85597,24.04255,monolithic frame,none,38.6,1.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,41900.0
+49.85598,24.04256,monolithic frame,none,88.73,3.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,110873.0
+49.85599,24.04257,monolithic frame,none,38.68,1.0,2024.0,8.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,46400.0
+49.856,24.04258,monolithic frame,none,38,1.0,2024.0,8.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,48500.0
+49.85601,24.04259,monolithic frame,none,80.88,2.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,109702.0
+49.85602,24.0426,monolithic frame,none,50.49,1.0,2024.0,4.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,60000.0
+49.85603,24.04261,monolithic frame,none,116.5,2.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,139353.0
+49.85604,24.04262,monolithic frame,none,100.1,3.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,138854.0
+49.85605,24.04263,monolithic frame,none,43.14,1.0,2024.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,54000.0
+49.85606,24.04264,monolithic frame,none,156.36,4.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,183692.0
+49.85607,24.04265,monolithic frame,none,98.21,2.0,2024.0,4.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,124817.0
+49.85608,24.04266,monolithic frame,none,46.5,1.0,2024.0,3.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,53000.0
+49.85609,24.04267,monolithic frame,none,90.25,3.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,120484.0
+49.8561,24.04268,monolithic frame,none,97.2,3.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,121457.0
+49.85611,24.04269,brick house,none,85,2.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,65900.0
+49.85612,24.0427,monolithic frame,none,50.6,1.0,2024.0,4.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,69400.0
+49.85613,24.04271,monolithic frame,none,85,2.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,65999.0
+49.85614,24.04272,brick house,none,36,1.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,45999.0
+49.85615,24.04273,monolithic frame,none,43,1.0,2024.0,3.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,55000.0
+49.85616,24.04274,monolithic frame,none,52,1.0,2024.0,3.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,55000.0
+49.85617,24.04275,monolithic frame,none,38,1.0,2024.0,4.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,40000.0
+49.85618,24.04276,monolithic frame,none,73,2.0,2024.0,7.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,98000.0
+49.85619,24.04277,monolithic frame,none,80.78,2.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,112155.0
+49.8562,24.04278,monolithic frame,none,104.37,3.0,2024.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,127073.0
+49.85621,24.04279,monolithic frame,none,116.85,2.0,2024.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,143515.0
+49.85622,24.0428,monolithic frame,none,54.13,1.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,76310.0
+49.85623,24.04281,brick house,none,67.43,2.0,2024.0,2.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,60690.0
+49.85624,24.04282,monolithic frame,none,55.22,1.0,2024.0,4.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,80796.0
+49.85625,24.04283,monolithic frame,none,94.04,2.0,2024.0,9.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,120522.0
+49.85626,24.04284,monolithic frame,none,52.95,1.0,2024.0,6.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,79171.0
+49.85627,24.04285,monolithic frame,none,40.21,1.0,2024.0,8.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,48000.0
+49.85628,24.04286,monolithic frame,none,74.08,1.0,2024.0,3.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,102853.0
+49.85629,24.04287,monolithic frame,none,87.43,3.0,2024.0,7.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,86000.0
+49.8563,24.04288,monolithic frame,none,34.8,1.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,36000.0
+49.85631,24.04289,monolithic frame,none,93.1,2.0,2024.0,5.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,120000.0
+49.85632,24.0429,monolithic frame,none,43.11,1.0,2024.0,7.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,44000.0
+49.85633,24.04291,monolithic frame,none,70,2.0,2024.0,1.0,ЖК Містечко Підзамче,1.0,apartment,No,No,No,58000.0
+49.85585,24.0498,brick house,medium-good,46,1.0,1914.0,4.0,none,1.0,apartment,No,No,No,55000.0
+49.85564,24.05828,brick house,medium-good,41,2.0,1959.0,1.0,none,1.0,apartment,No,No,No,47000.0
+49.85564,24.06167,brick house,medium-good,69.9,3.0,1988.0,9.0,none,1.0,apartment,No,No,No,75000.0
+49.8565,24.06048,brick house,good,60.6,2.0,1988.0,8.0,АН Атланта,1.0,apartment,No,No,No,82000.0
+49.85773,24.05453,brick house,medium,41,2.0,1950.0,1.0,none,1.0,apartment,No,No,No,32000.0
+49.85795,24.0493,brick house,good,75,3.0,1950.0,1.0,none,2.0,apartment,No,No,No,89000.0
+49.85446,24.03605,brick house,medium-good,122,5.0,1950.0,1.0,none,2.0,apartment,No,No,No,95000.0
+49.8533,24.03078,brick house,medium,40,2.0,1950.0,2.0,none,1.0,apartment,No,No,No,43999.0
+49.85444,24.03158,brick house,medium-good,24,1.0,1915.0,2.0,none,1.0,apartment,No,No,No,33000.0
+49.85502,24.02201,brick house,medium,60,3.0,1970.0,5.0,none,1.0,apartment,No,No,No,67000.0
+49.85442,24.02026,brick house,good,57,2.0,1970.0,7.0,none,1.0,apartment,No,No,No,67000.0
+49.85442,24.02026,brick house,medium,70,3.0,1970.0,1.0,none,1.0,apartment,No,No,No,70000.0
+49.85442,24.02026,brick house,none,71,3.0,1970.0,1.0,none,1.0,apartment,No,No,No,80000.0
+49.85629,24.01845,brick house,medium-good,64,3.0,1967.0,4.0,none,1.0,apartment,No,No,No,64000.0
+49.85587,24.01682,panel,medium-good,62,3.0,1967.0,4.0,none,1.0,apartment,No,No,No,64000.0
+49.85655,24.01759,brick house,medium-good,30,1.0,1980.0,4.0,none,1.0,apartment,No,No,No,32000.0
+49.85655,24.01759,brick house,medium,21,1.0,1980.0,9.0,none,1.0,apartment,No,No,No,27000.0
+49.85741,24.01387,brick house,none,40,1.0,1980.0,5.0,none,1.0,apartment,No,No,No,35000.0
+49.8569,24.01273,monolithic frame,none,85.2,3.0,2016.0,8.0,Галжитлобуд,1.0,apartment,No,No,No,105000.0
+49.8569,24.01273,monolithic frame,medium-good,72,3.0,2016.0,1.0,none,1.0,apartment,No,No,No,85000.0
+49.85805,24.00982,brick house,none,67,2.0,2000.0,7.0,none,1.0,apartment,No,No,No,45628.0
+49.85647,24.02162,brick house,perfect,47,2.0,2011.0,3.0,none,1.0,apartment,No,No,No,95000.0
+49.85647,24.02162,brick house,perfect,32.6,1.0,2011.0,5.0,none,1.0,apartment,No,No,Yes,54998.0
+49.85647,24.02162,brick house,perfect,139,3.0,2017.0,2.0,none,1.0,apartment,No,No,No,170000.0
+49.85647,24.02162,brick house,perfect,65,2.0,2019.0,12.0,none,1.0,apartment,No,Yes,No,155000.0
+49.85647,24.02162,brick house,perfect,70,2.0,2019.0,1.0,none,1.0,apartment,No,No,No,121000.0
+49.85647,24.02162,brick house,perfect,69,2.0,2019.0,2.0,none,1.0,apartment,No,No,No,175054.0
+49.85647,24.02162,brick house,good,62.3,3.0,2019.0,8.0,none,1.0,apartment,No,No,No,79000.0
+49.85647,24.02162,brick house,perfect,72,1.0,2019.0,6.0,AVALON,1.0,apartment,No,No,No,220000.0
+49.85647,24.02162,brick house,none,120,3.0,2019.0,5.0,none,1.0,apartment,No,No,No,180000.0
+49.85647,24.02162,brick house,perfect,45,1.0,2019.0,1.0,none,1.0,apartment,No,No,No,95400.0
+49.85647,24.02162,brick house,perfect,51,1.0,2019.0,11.0,none,1.0,apartment,No,Yes,Yes,119000.0
+49.85647,24.02162,brick house,medium-good,55,3.0,1980.0,1.0,none,1.0,apartment,No,No,No,50000.0
+49.85647,24.02162,brick house,good,45,2.0,2010.0,2.0,none,1.0,apartment,No,No,No,60000.0
+49.85647,24.02162,brick house,perfect,140,3.0,2019.0,12.0,none,2.0,apartment,No,No,No,170000.0
+49.85647,24.02162,brick house,medium,80,4.0,2000.0,10.0,none,1.0,apartment,No,No,No,68500.0
+49.85647,24.02162,brick house,good,121,3.0,2019.0,9.0,none,1.0,apartment,No,No,No,180000.0
+49.85647,24.02162,monolithic frame,perfect,96,3.0,2019.0,9.0,none,2.0,apartment,No,No,Yes,110000.0
+49.85647,24.02162,brick house,perfect,41,1.0,2019.0,3.0,none,1.0,apartment,No,No,No,70500.0
+49.85647,24.02162,brick house,perfect,53,3.0,2019.0,3.0,none,1.0,apartment,No,No,No,67000.0
+49.85647,24.02162,brick house,perfect,45,1.0,2019.0,3.0,none,1.0,apartment,No,No,No,93000.0
+49.85647,24.02162,brick house,none,82,3.0,2019.0,11.0,none,1.0,apartment,No,No,No,112000.0
+49.85647,24.02162,brick house,perfect,34,1.0,2019.0,3.0,none,1.0,apartment,No,No,No,61999.0
+49.85647,24.02162,brick house,perfect,152,3.0,2019.0,3.0,none,1.0,apartment,No,No,Yes,198000.0
+49.85647,24.02162,brick house,none,85,3.0,2019.0,8.0,none,1.0,apartment,No,No,No,105000.0
+49.85647,24.02162,brick house,good,54,2.0,1950.0,3.0,none,1.0,apartment,No,No,No,88000.0
+49.85647,24.02162,brick house,perfect,53,1.0,2019.0,4.0,none,1.0,apartment,No,Yes,No,78000.0
+49.85647,24.02162,brick house,medium,55,2.0,1980.0,3.0,none,1.0,apartment,No,No,No,85000.0
+49.85647,24.02162,brick house,perfect,42,1.0,2019.0,2.0,none,1.0,apartment,No,No,No,85000.0
+49.85647,24.02162,brick house,good,76,2.0,2019.0,4.0,none,1.0,apartment,No,No,No,110000.0
+49.85647,24.02162,brick house,medium-good,46,2.0,2000.0,1.0,none,1.0,apartment,No,No,No,43500.0
+49.85647,24.02162,brick house,good,28,1.0,2019.0,1.0,none,1.0,apartment,No,No,No,43600.0
+49.85647,24.02162,brick house,medium-good,62,3.0,1960.0,4.0,none,1.0,apartment,No,No,No,64000.0
+49.85647,24.02162,brick house,none,235,5.0,1960.0,4.0,none,2.0,apartment,No,No,No,90000.0
+49.85647,24.02162,brick house,none,144,4.0,2019.0,13.0,none,1.0,apartment,No,No,No,175000.0
+49.85647,24.02162,brick house,good,64,3.0,2019.0,6.0,none,1.0,apartment,No,No,No,103000.0
+49.85647,24.02162,brick house,good,82.5,4.0,2000.0,11.0,АН Атланта,1.0,apartment,No,No,No,96000.0
+49.85647,24.02162,brick house,none,66.5,2.0,2019.0,16.0,АН Атланта,1.0,apartment,No,No,No,119000.0
+49.85647,24.02162,brick house,medium,45.3,2.0,1950.0,3.0,none,1.0,apartment,No,No,No,55000.0
+49.85647,24.02162,brick house,none,82.4,3.0,2019.0,17.0,none,1.0,apartment,No,No,No,115000.0
+49.85647,24.02162,brick house,perfect,73,2.0,2019.0,8.0,none,1.0,apartment,No,No,No,150000.0
+49.85647,24.02162,brick house,good,74,3.0,1960.0,3.0,none,1.0,apartment,No,No,No,95000.0
+49.85647,24.02162,brick house,good,71,2.0,2010.0,7.0,none,1.0,apartment,No,No,No,116251.0
+49.85647,24.02162,brick house,good,40,2.0,2019.0,12.0,none,1.0,apartment,No,No,No,110000.0
+49.85647,24.02162,brick house,medium-good,56,3.0,1950.0,5.0,none,1.0,apartment,No,No,No,57000.0
+49.85647,24.02162,brick house,good,54,2.0,1940.0,3.0,none,1.0,apartment,No,No,No,93000.0
+49.85647,24.02162,brick house,none,92,3.0,2019.0,4.0,none,1.0,apartment,No,No,No,95000.0
+49.85647,24.02162,brick house,perfect,58,2.0,2019.0,12.0,none,1.0,apartment,No,No,No,110000.0
+49.85647,24.02162,brick house,none,51,2.0,2010.0,7.0,none,1.0,apartment,No,No,No,50000.0
+49.85647,24.02162,brick house,good,70,2.0,2015.0,12.0,none,1.0,apartment,No,Yes,No,110000.0
+49.85647,24.02162,brick house,good,71,2.0,2016.0,7.0,none,1.0,apartment,No,No,No,116251.0
+49.85647,24.02162,brick house,good,74,3.0,1950.0,3.0,none,1.0,apartment,No,No,No,95000.0
+49.86138,24.0134,brick house,good,29,1.0,1980.0,1.0,АН Атланта,1.0,apartment,No,No,No,44500.0
+49.86138,24.0134,brick house,good,63.4,2.0,1987.0,12.0,АН Атланта,1.0,apartment,No,No,No,110000.0
+49.86138,24.0134,brick house,medium,31,1.0,1980.0,1.0,none,1.0,apartment,No,No,No,42000.0
+49.86227,24.01241,brick house,good,70,2.0,2000.0,12.0,none,1.0,apartment,No,No,No,95000.0
+49.86227,24.01241,brick house,medium,64,2.0,2000.0,12.0,none,1.0,apartment,No,No,No,110000.0
+49.86127,24.00977,brick house,medium,82,4.0,1988.0,10.0,none,1.0,apartment,No,No,No,70000.0
+49.86237,24.01314,monolithic frame,medium-good,64,2.0,2010.0,12.0,none,1.0,apartment,No,No,No,110000.0
+49.86237,24.01314,monolithic frame,good,182,3.0,2010.0,16.0,none,2.0,apartment,No,No,No,273000.0
+49.86414,24.0098,brick house,low-medium,14,1.0,1950.0,5.0,none,1.0,apartment,No,No,No,14000.0
+49.86403,24.01442,brick house,medium-good,76,4.0,1985.0,1.0,none,1.0,apartment,No,No,No,85000.0
+49.86419,24.01478,brick house,good,80,3.0,1985.0,1.0,none,1.0,apartment,No,No,No,82000.0
+49.86419,24.01478,brick house,good,41.5,2.0,1950.0,5.0,none,1.0,apartment,No,Yes,No,69000.0
+49.86467,24.01416,brick house,good,79,4.0,1986.0,5.0,none,1.0,apartment,No,Yes,No,83900.0
+49.86538,24.01328,brick house,good,61,3.0,1986.0,4.0,none,1.0,apartment,No,No,No,90000.0
+49.8653,24.01656,brick house,good,67,3.0,1988.0,6.0,none,1.0,apartment,No,No,No,103000.0
+49.86564,24.01412,brick house,good,37,1.0,1987.0,9.0,none,1.0,apartment,No,No,No,51000.0
+49.87604,23.99798,brick house,none,115,3.0,2024.0,10.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,160000.0
+49.87604,23.99798,brick house,none,72,2.0,2024.0,2.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,89700.0
+49.87604,23.99798,brick house,none,56,2.0,2024.0,7.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,66000.0
+49.87604,23.99798,brick house,none,72,2.0,2024.0,2.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,89700.0
+49.87604,23.99798,brick house,none,64,2.0,2023.0,5.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,75000.0
+49.87604,23.99798,brick house,none,66.1,2.0,2024.0,3.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,82000.0
+49.87604,23.99798,brick house,none,65,2.0,2021.0,9.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,77400.0
+49.87604,23.99798,brick house,none,98,3.0,2024.0,6.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,127500.0
+49.87604,23.99798,brick house,good,126,4.0,2021.0,8.0,ЖК Малоголосківські пагорби,2.0,apartment,No,No,No,233352.0
+49.87604,23.99798,brick house,perfect,83,2.0,2022.0,3.0,ЖК Малоголосківські пагорби,1.0,apartment,No,Yes,No,180000.0
+49.87604,23.99798,brick house,none,77.5,2.0,2024.0,2.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,88000.0
+49.87604,23.99798,brick house,none,65,2.0,2024.0,9.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,77000.0
+49.87604,23.99798,brick house,none,58,2.0,2024.0,9.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,66200.0
+49.87604,23.99798,brick house,none,66.1,2.0,2024.0,3.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,82000.0
+49.87604,23.99798,brick house,none,58,2.0,2024.0,9.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,66200.0
+49.87604,23.99798,brick house,none,105,3.0,2024.0,8.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,145000.0
+49.87604,23.99798,brick house,none,37,1.0,2024.0,4.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,51000.0
+49.87604,23.99798,brick house,perfect,65,2.0,2021.0,4.0,ЖК Малоголосківські пагорби,1.0,apartment,No,Yes,No,117000.0
+49.87604,23.99798,brick house,none,54,2.0,2024.0,8.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,61500.0
+49.87604,23.99798,brick house,none,70,2.0,2024.0,3.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,82000.0
+49.87604,23.99798,brick house,none,98.02,3.0,2024.0,6.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,127500.0
+49.87604,23.99798,brick house,none,36.54,1.0,2021.0,4.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,51000.0
+49.87604,23.99798,brick house,none,64,2.0,2020.0,9.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,77000.0
+49.87604,23.99798,brick house,none,55.5,2.0,2024.0,7.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,90000.0
+49.87604,23.99798,brick house,none,37,1.0,2024.0,1.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,51000.0
+49.87604,23.99798,brick house,none,36.54,1.0,2024.0,4.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,51000.0
+49.87604,23.99798,brick house,none,68,2.0,2024.0,9.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,78500.0
+49.87604,23.99798,brick house,none,42,1.0,2024.0,3.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,67900.0
+49.87604,23.99798,brick house,none,40,1.0,2024.0,6.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,78000.0
+49.87604,23.99798,brick house,none,55.8,1.0,2024.0,4.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,62000.0
+49.87604,23.99798,brick house,none,84,3.0,2024.0,2.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,105000.0
+49.87604,23.99798,brick house,none,64,2.0,2024.0,5.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,75000.0
+49.87604,23.99798,brick house,none,37,1.0,2024.0,2.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,51000.0
+49.87604,23.99798,brick house,none,58,2.0,2024.0,9.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,66200.0
+49.87604,23.99798,brick house,none,58,2.0,2024.0,9.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,66200.0
+49.87604,23.99798,brick house,none,37,1.0,2024.0,4.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,51000.0
+49.87604,23.99798,brick house,none,75.6,2.0,2024.0,2.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,82700.0
+49.87604,23.99798,brick house,none,42,1.0,2024.0,1.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,50000.0
+49.87604,23.99798,brick house,none,45.6,1.0,2024.0,6.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,61500.0
+49.87604,23.99798,brick house,none,69,2.0,2024.0,8.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,83500.0
+49.87604,23.99798,brick house,none,68,2.0,2022.0,9.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,79000.0
+49.87604,23.99798,brick house,none,115,3.0,2022.0,10.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,160000.0
+49.87604,23.99798,brick house,none,70,2.0,2024.0,10.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,91000.0
+49.87604,23.99798,brick house,none,77,2.0,2024.0,1.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,85000.0
+49.87604,23.99798,brick house,none,38.8,1.0,2022.0,4.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,51000.0
+49.87604,23.99798,panel,none,42,1.0,2024.0,1.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,48000.0
+49.87604,23.99798,brick house,none,77,2.0,2023.0,1.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,85000.0
+49.87604,23.99798,brick house,none,70,2.0,2024.0,10.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,91000.0
+49.87604,23.99798,brick house,none,72,2.0,2024.0,2.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,89700.0
+49.87604,23.99798,brick house,none,68,2.0,2022.0,9.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,79000.0
+49.87604,23.99798,brick house,none,60.5,2.0,2024.0,1.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,70000.0
+49.87604,23.99798,brick house,none,75.2,2.0,2024.0,1.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,90200.0
+49.87604,23.99798,brick house,none,83.77,3.0,2024.0,6.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,100500.0
+49.87604,23.99798,brick house,none,58,2.0,2024.0,9.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,66200.0
+49.87604,23.99798,brick house,none,36.7,1.0,2024.0,4.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,51000.0
+49.87634,23.99787,brick house,none,46,1.0,2024.0,2.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,35500.0
+49.87634,23.99787,brick house,none,49.19,1.0,2024.0,3.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,38999.0
+49.87634,23.99787,brick house,none,98.05,3.0,2023.0,8.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,83343.0
+49.87634,23.99787,brick house,none,74.98,2.0,2023.0,10.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,63733.0
+49.87634,23.99787,brick house,none,99.3,3.0,2024.0,5.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,84405.0
+49.87634,23.99787,brick house,none,98.02,3.0,2023.0,6.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,83317.0
+49.87634,23.99787,brick house,none,76.3,3.0,2023.0,3.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,64855.0
+49.87634,23.99787,brick house,none,76,2.0,2024.0,8.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,60800.0
+49.87634,23.99787,brick house,none,98.05,2.0,2024.0,7.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,83342.0
+49.87634,23.99787,brick house,none,71.05,2.0,2023.0,10.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,60393.0
+49.87634,23.99787,brick house,none,43,1.0,2024.0,8.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,43700.0
+49.87634,23.99787,brick house,none,77.6,2.0,2023.0,3.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,65960.0
+49.87634,23.99787,brick house,none,78.37,2.0,2023.0,10.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,66615.0
+49.87634,23.99787,brick house,none,72.13,2.0,2024.0,2.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,61310.0
+49.87634,23.99787,brick house,none,43,1.0,2024.0,8.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,43700.0
+49.87634,23.99787,brick house,none,42,1.0,2023.0,6.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,32900.0
+49.87634,23.99787,brick house,none,45,1.0,2022.0,7.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,33800.0
+49.87634,23.99787,brick house,none,42.67,1.0,2024.0,6.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,38403.0
+49.87634,23.99787,brick house,none,43,1.0,2024.0,8.0,ЖК Малоголосківські пагорби,1.0,apartment,No,No,No,43700.0
+49.86646,24.0006,monolithic frame,perfect,41,1.0,2023.0,7.0,ЖК Обрій,1.0,apartment,No,No,No,76000.0
+49.86646,24.0006,brick house,none,56,2.0,2024.0,7.0,ЖК Обрій,1.0,apartment,No,No,No,95000.0
+49.86646,24.0006,brick house,medium,83,3.0,2024.0,7.0,ЖК Обрій,1.0,apartment,No,Yes,No,123000.0
+49.86646,24.0006,brick house,none,40.4,1.0,2024.0,4.0,ЖК Обрій,1.0,apartment,No,No,No,51000.0
+49.96582,24.0062,monolithic frame,good,41,1.0,2022.0,7.0,ЖК Обрій,1.0,apartment,No,No,No,76000.0
+49.96582,24.0062,brick house,none,56,2.0,2024.0,7.0,ЖК Обрій,1.0,apartment,No,No,No,95000.0
+49.96582,24.0062,brick house,medium,83,3.0,2024.0,7.0,ЖК Обрій,1.0,apartment,No,No,No,123000.0
+49.96582,24.0062,brick house,none,40.4,1.0,2024.0,4.0,ЖК Обрій,1.0,apartment,No,No,No,51000.0
+49.86798,24.00275,brick house,good,40,2.0,2020.0,8.0,ЖК Обрій,1.0,apartment,No,Yes,Yes,76000.0
+49.86798,24.00275,brick house,perfect,66,2.0,2018.0,1.0,ЖК Обрій,1.0,apartment,No,No,Yes,98000.0
+49.86798,24.00275,monolithic frame,perfect,40,1.0,2021.0,8.0,ЖК Обрій,1.0,apartment,No,No,Yes,78000.0
+49.86654,24.0096,brick house,perfect,40,1.0,2020.0,3.0,ЖК На Нивах,1.0,apartment,No,No,No,85000.0
+49.86654,24.0096,brick house,perfect,43,1.0,2020.0,2.0,ЖК На Нивах,1.0,apartment,No,No,No,81000.0
+49.86743,24.01426,insulated panel,good,90,3.0,1991.0,6.0,none,1.0,apartment,No,No,No,120000.0
+49.86743,24.01426,insulated panel,none,47,1.0,1991.0,4.0,none,1.0,apartment,No,No,No,40000.0
+49.87654,24.01224,brick house,none,78,2.0,2020.0,1.0,none,1.0,apartment,No,No,No,88000.0
+49.87654,24.01224,brick house,none,36,1.0,2020.0,5.0,none,1.0,apartment,No,No,No,42000.0
+49.86746,24.01342,brick house,good,41.4,1.0,2018.0,6.0,none,1.0,apartment,No,No,Yes,70000.0
+49.86746,24.01342,brick house,perfect,83,3.0,2018.0,7.0,none,1.0,apartment,No,No,No,171000.0
+49.86746,24.01342,brick house,medium,120,3.0,2018.0,9.0,none,2.0,apartment,No,No,No,180000.0
+49.86746,24.01342,monolithic frame,perfect,61,2.0,2016.0,2.0,none,1.0,apartment,No,No,No,104000.0
+49.87049,24.01053,panel,none,99,3.0,1990.0,6.0,ЖК Панорамний,1.0,apartment,No,No,No,78000.0
+49.87049,24.01053,panel,none,48.2,1.0,1990.0,8.0,ЖК Панорамний,1.0,apartment,No,No,No,48000.0
+49.87049,24.01053,panel,none,51,1.0,1990.0,10.0,ЖК Панорамний,1.0,apartment,No,No,No,40000.0
+49.87049,24.01053,panel,none,47,1.0,1990.0,12.0,ЖК Панорамний,1.0,apartment,No,No,No,45500.0
+49.87049,24.01053,panel,none,100,3.0,1990.0,6.0,ЖК Панорамний,1.0,apartment,No,No,No,73000.0
+49.87049,24.01053,panel,none,49,1.0,1990.0,5.0,ЖК Панорамний,1.0,apartment,No,No,No,49000.0
+49.8681,24.01382,panel,good,45,1.0,1992.0,5.0,ЖК КарпатБуд,1.0,apartment,No,No,No,73000.0
+49.86913,24.01322,monolithic frame,good,98,3.0,2016.0,10.0,ЖК КарпатБуд,1.0,apartment,No,No,No,135000.0
+49.86913,24.01322,monolithic frame,perfect,88.1,3.0,2016.0,9.0,ЖК КарпатБуд,1.0,apartment,No,No,No,150000.0
+49.86913,24.01322,monolithic frame,none,65,2.0,2016.0,9.0,ЖК КарпатБуд,1.0,apartment,No,No,No,65000.0
+49.86913,24.01322,monolithic frame,good,88,3.0,2016.0,2.0,ЖК КарпатБуд,1.0,apartment,No,Yes,No,128000.0
+49.86913,24.01322,monolithic frame,good,89,2.0,2016.0,2.0,ЖК КарпатБуд,1.0,apartment,No,No,No,128000.0
+49.86913,24.01322,monolithic frame,none,43,1.0,2016.0,5.0,ЖК КарпатБуд,1.0,apartment,No,No,No,47000.0
+49.86415,24.02818,brick house,none,80,2.0,2024.0,3.0,ЖК Замарстинівська,1.0,apartment,No,No,No,103660.0
+49.86415,24.02818,brick house,none,48,1.0,2024.0,9.0,ЖК Замарстинівська,1.0,apartment,No,No,No,58600.0
+49.86415,24.02818,brick house,none,97,3.0,2024.0,2.0,ЖК Замарстинівська,1.0,apartment,No,No,No,92000.0
+49.86538,24.02922,monolithic frame,perfect,42.3,1.0,2014.0,7.0,ЖК Лінкольн,1.0,apartment,No,No,No,75000.0
+49.86538,24.02922,monolithic frame,good,101,3.0,2014.0,10.0,none,1.0,apartment,No,No,No,120000.0
+49.86475,24.02934,monolithic frame,good,44,1.0,2018.0,11.0,ЖК Лінкольн,1.0,apartment,No,Yes,Yes,75000.0
+49.86475,24.02934,monolithic frame,perfect,72,3.0,2018.0,13.0,ЖК Лінкольн,2.0,apartment,No,Yes,Yes,122000.0
+49.86608,24.03054,brick house,perfect,84.4,3.0,1961.0,6.0,none,1.0,apartment,No,Yes,Yes,149000.0
+49.86418,24.03351,monolithic frame,perfect,57,2.0,2019.0,1.0,ЖК Avalon Time,1.0,apartment,No,No,No,100000.0
+49.86418,24.03351,monolithic frame,none,72,2.0,2019.0,2.0,ЖК Avalon Time,1.0,apartment,No,No,No,100000.0
+49.86418,24.03351,monolithic frame,perfect,45,1.0,2019.0,4.0,ЖК Avalon Time,1.0,apartment,No,No,No,91500.0
+49.86418,24.03351,monolithic frame,perfect,52.5,2.0,2019.0,1.0,ЖК Avalon Time,1.0,apartment,No,No,No,95000.0
+49.86418,24.03351,monolithic frame,none,39,1.0,2019.0,1.0,ЖК Avalon Time,1.0,apartment,Yes,No,No,51000.0
+49.86876,24.02739,monolithic frame,perfect,44,1.0,2020.0,5.0,ЖК Greenville Park Lviv,1.0,apartment,No,Yes,No,89500.0
+49.86876,24.02739,monolithic frame,none,53.2,1.0,2020.0,2.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,72000.0
+49.86876,24.02739,monolithic frame,perfect,45,1.0,2020.0,2.0,ЖК Greenville Park Lviv,1.0,apartment,No,Yes,No,86000.0
+49.86876,24.02739,monolithic frame,none,68.25,2.0,2020.0,3.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,92000.0
+49.86876,24.02739,monolithic frame,none,77.3,2.0,2020.0,5.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,110500.0
+49.86876,24.02739,monolithic frame,perfect,46,1.0,2020.0,2.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,84000.0
+49.86876,24.02739,monolithic frame,none,47.6,1.0,2020.0,1.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,58500.0
+49.86876,24.02739,monolithic frame,perfect,46,1.0,2020.0,1.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,84000.0
+49.86876,24.02739,monolithic frame,perfect,45.1,1.0,2020.0,5.0,ЖК Greenville Park Lviv,1.0,apartment,No,Yes,No,83000.0
+49.86876,24.02739,monolithic frame,perfect,54,2.0,2020.0,3.0,ЖК Greenville Park Lviv,1.0,apartment,No,Yes,No,135000.0
+49.86876,24.02739,monolithic frame,perfect,45,1.0,2020.0,8.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,89999.0
+49.86876,24.02739,monolithic frame,none,46.44,1.0,2020.0,3.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,57500.0
+49.86876,24.02739,monolithic frame,perfect,45,1.0,2020.0,4.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,83000.0
+49.86876,24.02739,monolithic frame,perfect,44,1.0,2020.0,5.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,65000.0
+49.86876,24.02739,monolithic frame,perfect,68.21,2.0,2020.0,3.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,137000.0
+49.86876,24.02739,monolithic frame,none,63.45,1.0,2020.0,6.0,ЖК Greenville Park Lviv,1.0,apartment,No,Yes,No,81200.0
+49.86876,24.02739,monolithic frame,none,47,1.0,2020.0,3.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,58000.0
+49.86876,24.02739,monolithic frame,none,47.57,1.0,2020.0,1.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,60000.0
+49.86876,24.02739,monolithic frame,none,46,1.0,2020.0,5.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,65000.0
+49.86876,24.02739,monolithic frame,none,46,1.0,2020.0,5.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,65000.0
+49.86876,24.02739,monolithic frame,perfect,55,1.0,2020.0,2.0,ЖК Greenville Park Lviv,1.0,apartment,No,Yes,No,112500.0
+49.86876,24.02739,monolithic frame,none,45.06,1.0,2020.0,5.0,ЖК Greenville Park Lviv,1.0,apartment,No,No,No,58900.0
+49.86947,24.03586,brick house,medium,82,4.0,1962.0,5.0,none,1.0,apartment,No,No,No,70000.0
+49.86947,24.03586,brick house,medium,30,1.0,1980.0,7.0,none,1.0,apartment,No,No,No,35000.0
+49.86947,24.03586,panel,medium-good,69,3.0,1980.0,9.0,none,1.0,apartment,No,No,No,60000.0
+49.86947,24.03586,panel,medium-good,46,2.0,1980.0,5.0,none,1.0,apartment,No,No,No,49000.0
+49.86947,24.03586,brick house,medium,68.2,3.0,1980.0,9.0,none,1.0,apartment,No,No,No,68000.0
+49.86947,24.03586,brick house,medium,44,2.0,1980.0,1.0,none,1.0,apartment,No,No,No,47000.0
+49.86951,24.03318,brick house,good,23,1.0,1980.0,4.0,none,1.0,apartment,No,No,No,21000.0
+49.86992,24.03071,brick house,medium,30,1.0,1981.0,2.0,none,1.0,apartment,No,No,No,33500.0
+49.87051,24.02842,brick house,good,50,2.0,1982.0,14.0,none,1.0,apartment,No,No,Yes,68000.0
+49.87051,24.02842,brick house,medium-good,48,2.0,1982.0,9.0,none,1.0,apartment,No,No,No,55000.0
+49.87051,24.02842,brick house,low,37,1.0,1979.0,9.0,none,1.0,apartment,No,No,No,39000.0
+49.87164,24.02226,brick house,perfect,45,1.0,2021.0,9.0,ЖК Avalon Flex,1.0,apartment,No,Yes,Yes,99000.0
+49.87164,24.02226,brick house,perfect,67,2.0,2021.0,7.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,137000.0
+49.87164,24.02226,brick house,perfect,45,1.0,2021.0,9.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,87000.0
+49.87164,24.02226,brick house,perfect,45,1.0,2021.0,4.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,91500.0
+49.87164,24.02226,brick house,perfect,84,3.0,2021.0,9.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,205000.0
+49.87164,24.02226,brick house,perfect,45,1.0,2021.0,3.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,88500.0
+49.87164,24.02226,brick house,perfect,65,2.0,2021.0,1.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,138000.0
+49.87164,24.02226,brick house,perfect,90,2.0,2021.0,9.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,169000.0
+49.87164,24.02226,brick house,perfect,68,2.0,2021.0,7.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,155000.0
+49.87164,24.02226,brick house,perfect,67,2.0,2021.0,8.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,143000.0
+49.87164,24.02226,brick house,perfect,45,1.0,2021.0,7.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,93000.0
+49.87164,24.02226,brick house,perfect,40,1.0,2021.0,9.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,10900.0
+49.87164,24.02226,brick house,perfect,44,1.0,2021.0,7.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,87000.0
+49.87164,24.02226,brick house,perfect,70,2.0,2021.0,5.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,153000.0
+49.87164,24.02226,brick house,perfect,68,2.0,2021.0,5.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,153000.0
+49.87164,24.02226,brick house,perfect,87,2.0,2021.0,9.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,169000.0
+49.87164,24.02226,brick house,perfect,45,1.0,2021.0,3.0,ЖК Avalon Flex,1.0,apartment,No,Yes,No,85000.0
+49.87164,24.02226,brick house,none,83,3.0,2022.0,8.0,ЖК Avalon Flex,1.0,apartment,No,No,No,99000.0
+49.87164,24.02226,brick house,none,66,2.0,2022.0,8.0,ЖК Avalon Flex,1.0,apartment,No,No,No,88500.0
+49.87164,24.02226,brick house,none,84,3.0,2022.0,8.0,ЖК Avalon Flex,1.0,apartment,No,No,No,95000.0
+49.87164,24.02226,brick house,none,101,3.0,2022.0,3.0,ЖК Avalon Flex,1.0,apartment,No,No,No,110000.0
+49.87164,24.02226,brick house,none,84,3.0,2022.0,3.0,ЖК Avalon Flex,1.0,apartment,No,No,No,95000.0
+49.87164,24.02226,brick house,none,137.5,4.0,2022.0,9.0,ЖК Avalon Flex,1.0,apartment,No,No,No,168500.0
+49.87164,24.02226,brick house,none,87,3.0,2022.0,4.0,ЖК Avalon Flex,1.0,apartment,No,No,No,100000.0
+49.87164,24.02226,brick house,none,95,2.0,2022.0,9.0,ЖК Avalon Flex,1.0,apartment,No,No,No,123000.0
+49.87036,24.03247,brick house,good,69,3.0,1980.0,9.0,none,1.0,apartment,No,No,No,63000.0
+49.87016,24.03737,panel,good,46,2.0,1973.0,5.0,none,1.0,apartment,No,No,No,49000.0
+49.87163,24.0343,brick house,good,80,4.0,1978.0,6.0,none,1.0,apartment,No,No,No,76000.0
+49.87163,24.0343,brick house,good,83,3.0,1978.0,6.0,none,1.0,apartment,No,No,No,90000.0
+49.87223,24.0362,brick house,medium-good,35.1,1.0,1978.0,9.0,none,1.0,apartment,No,No,No,41000.0
+49.87003,24.04229,brick house,good,30,1.0,1975.0,7.0,none,1.0,apartment,No,No,No,34000.0
+49.87003,24.04229,brick house,good,20,1.0,1975.0,7.0,none,1.0,apartment,No,No,No,33000.0
+49.86451,24.04863,brick house,medium,42,1.0,1977.0,1.0,none,1.0,apartment,No,No,No,50000.0
+49.86736,24.05189,insulated panel,medium-good,72,3.0,1992.0,7.0,none,1.0,apartment,No,No,No,57000.0
+49.86897,24.05381,insulated panel,medium-good,73,3.0,1994.0,4.0,none,1.0,apartment,No,No,No,67000.0
+49.86938,24.04504,brick house,good,87.1,3.0,1960.0,4.0,none,1.0,apartment,No,Yes,No,116251.0
+49.86999,24.04703,brick house,medium,38,1.0,1977.0,1.0,none,1.0,apartment,No,No,No,36500.0
+49.87007,24.05548,insulated panel,good,76.9,3.0,1991.0,4.0,none,1.0,apartment,No,No,No,66000.0
+49.87072,24.05693,monolithic frame,none,67,2.0,2016.0,6.0,none,1.0,apartment,No,No,No,125000.0
+49.87076,24.0573,brick house,perfect,67,2.0,2016.0,6.0,none,1.0,apartment,No,No,No,120000.0
+49.87152,24.05252,insulated panel,perfect,115,3.0,1998.0,10.0,none,2.0,apartment,No,Yes,No,80000.0
+49.87193,24.05165,insulated panel,good,59,2.0,1994.0,7.0,none,1.0,apartment,No,Yes,No,53000.0
+49.87193,24.05165,insulated panel,good,115,3.0,1994.0,10.0,none,2.0,apartment,No,No,No,80000.0
+49.87254,24.06128,brick house,perfect,79.1,2.0,2016.0,9.0,ЖК Khmelnytskyi Hall,1.0,apartment,No,No,Yes,125000.0
+49.87254,24.06128,brick house,perfect,35,1.0,2016.0,1.0,ЖК Khmelnytskyi Hall,1.0,apartment,No,No,Yes,50000.0
+49.87228,24.05216,brick house,medium,38,1.0,1972.0,12.0,none,1.0,apartment,No,No,No,36500.0
+49.87522,24.05986,monolithic frame,good,45,1.0,2011.0,8.0,none,1.0,apartment,No,No,No,56000.0
+49.8739,24.05119,panel,good,63,3.0,1970.0,5.0,none,1.0,apartment,No,No,No,51500.0
+49.87431,24.05076,panel,good,31.2,1.0,1969.0,4.0,none,1.0,apartment,No,No,No,46000.0
+49.87408,24.049,brick house,perfect,61,2.0,1952.0,5.0,none,1.0,apartment,No,Yes,No,86000.0
+49.87337,24.04855,brick house,good,105,4.0,1952.0,2.0,none,1.0,apartment,No,No,No,96000.0
+49.87388,24.04737,insulated panel,good,40,1.0,1993.0,2.0,none,1.0,apartment,No,No,No,46000.0
+49.87297,24.04353,brick house,good,70,3.0,1993.0,5.0,none,1.0,apartment,No,No,No,74000.0
+49.87491,24.04296,brick house,good,59,3.0,1993.0,9.0,none,1.0,apartment,No,No,No,65000.0
+49.87874,24.04467,brick house,perfect,60.9,2.0,2016.0,7.0,none,1.0,apartment,No,Yes,No,95000.0
+49.87931,24.0436,panel,low-medium,50.5,2.0,1970.0,3.0,none,1.0,apartment,No,No,No,38000.0
+49.87931,24.0436,panel,low-medium,52,3.0,1970.0,3.0,none,1.0,apartment,No,No,No,38000.0
+49.87993,24.04323,monolithic frame,perfect,43,1.0,2016.0,8.0,none,1.0,apartment,No,Yes,No,67999.0
+49.8806,24.03893,brick house,medium,37.3,1.0,1992.0,10.0,none,1.0,apartment,No,No,No,32000.0
+49.87943,24.03718,brick house,medium,37.6,1.0,1991.0,3.0,none,1.0,apartment,No,No,No,40000.0
+49.87975,24.03641,brick house,good,66.2,3.0,1992.0,2.0,none,1.0,apartment,No,No,No,70000.0
+49.87999,24.03591,insulated panel,good,82,4.0,1992.0,8.0,none,1.0,apartment,No,No,No,80000.0
+49.87999,24.03591,insulated panel,good,40,1.0,1992.0,10.0,none,1.0,apartment,No,No,No,40000.0
+49.87999,24.03591,insulated panel,good,69,3.0,1992.0,2.0,none,1.0,apartment,No,No,No,70000.0
+49.88061,24.03505,brick house,good,74,2.0,2005.0,1.0,none,1.0,apartment,No,No,No,73978.0
+49.88239,24.03767,brick house,good,20,1.0,2013.0,1.0,none,1.0,apartment,No,No,No,27500.0
+49.88235,24.03684,brick house,good,110,3.0,2013.0,5.0,none,2.0,apartment,No,No,No,95000.0
+49.8824,24.03618,brick house,good,110,3.0,2013.0,5.0,none,2.0,apartment,No,No,No,95000.0
